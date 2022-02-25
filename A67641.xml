@@ -1,0 +1,464 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Derekh leshalom shalom betsok ha-e͡tim, or, The surest way to the safest peace, in troublous times delivered in a sermon preached before the right honourable Sr. John Eyles, kt. : then lord mayor of the City of London, on September 30, 1688 / by James Warner ...</title>
+            <author>Warner, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67641</idno>
+            <idno type="STC">Wing W894</idno>
+            <idno type="STC">ESTC R7053</idno>
+            <idno type="EEBO-CITATION">13506827</idno>
+            <idno type="OCLC">ocm 13506827</idno>
+            <idno type="VID">99830</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67641)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99830)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 480:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Derekh leshalom shalom betsok ha-e͡tim, or, The surest way to the safest peace, in troublous times delivered in a sermon preached before the right honourable Sr. John Eyles, kt. : then lord mayor of the City of London, on September 30, 1688 / by James Warner ...</title>
+                  <author>Warner, James.</author>
+               </titleStmt>
+               <extent>[10], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translated from Hebrew.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Job XXXIV, 29 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="document">
+            <pb facs="tcp:99830:1"/>
+            <figure>
+               <figDesc>coat of arms of the City of London surrounded by angelic and female figures</figDesc>
+               <p>London</p>
+            </figure>
+            <p>Mr. <hi>Parkhurſt,</hi>
+            </p>
+            <p>I Order you to Print this Sermon, Preached before me by Mr. <hi>War<g ref="char:EOLhyphen"/>ner,</hi> the laſt of <hi>September.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Grocers-Hall,</hi> 
+                  <date>
+                     <hi>Octob.</hi> 2. 1688.</date>
+               </dateline>
+               <signed>
+                  <hi>John Eyles</hi> Mayor.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:99830:1"/>
+            <p>דרך לשלום שלום בצוק העתים OR THE Sureſt Way to the Safeſt Peace, in Troublous Times: Delivered in a SERMON, Preached before The Right Honourable Sr. John Eyles, Kt. Then Lord Mayor of the City of London, On <hi>SEPTEMBER</hi> 30. 1688.</p>
+            <p>By <hi>JAMES WARNER,</hi> a Proteſtant.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Thomas Parkhurſt,</hi> at the Sign of the <hi>Three Crowns</hi> and <hi>Bible</hi> in <hi>Cheapſide,</hi> near <hi>Mercers</hi>-Chappel. 1688.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:99830:2"/>
+            <pb facs="tcp:99830:2"/>
+            <head>TO THE Right HONOURABLE S<hi rend="sup">r.</hi> John Eyles, K<hi rend="sup">t.</hi> Lord Mayor of the City of LONDON.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>I Here preſent Your Lordſhip with the Sermon, which I Preached before You, being Requeſted by Your Lordſhip to Print the ſame.</p>
+            <p>And that I might chooſe the moſt ſuitable Subject that I could, in ſo ſhort a time al<g ref="char:EOLhyphen"/>lowed me; I conſidered the great Conſterna<g ref="char:EOLhyphen"/>tion and Amaſement that is fallen upon all People, at the Appearance of the ſore Trou<g ref="char:EOLhyphen"/>bles
+<pb facs="tcp:99830:3" rendition="simple:additions"/>and Impending Judgments that ſeem near approaching, and are taking hold of us.</p>
+            <p>I knew all would be for avoiding of them, becauſe 'tis natural to us to ſhun whatever we apprehend may do us hurt.</p>
+            <p>But herein, I ſaw, would be our Miſery, That we ſhould be too prone to ſtruggle a<g ref="char:EOLhyphen"/>gainſt God, as the Prophet ſaith <hi>Iſrael</hi> did, Iſa. 51.20. <hi>Like a wild Bull in a Net:</hi> The more we ſtrive to avoid Trouble, the more we are encompaſſed with it, until we repent: This has been a practiſe fatal to all ages. The <hi>Iſrae<g ref="char:EOLhyphen"/>lites,</hi> when beſieged, repaired the Breach when made by the Enemy, but looked not to the Maker of it, the Lord of Hoſts, <hi>Iſa.</hi> 22.8, 9, 10, 11. who was the Hand that moved thoſe Inſtruments of Trouble. Inſtances of this in<g ref="char:EOLhyphen"/>diſcreet acting we have given of <hi>Ahaz</hi> and others; and indeed the Scripture Hiſtory a<g ref="char:EOLhyphen"/>bounds with many of them; for upon ſurpri<g ref="char:EOLhyphen"/>ſing trouble we ſtart from dangers approach<g ref="char:EOLhyphen"/>ing, faſter oft-times than the well informed Judgment can move: From hence ariſe the many Raſh and Precipitate Actions in a fright, many whereof are Ridiculous; ſome fatal to People in their Direful Effects.</p>
+            <pb facs="tcp:99830:3"/>
+            <p>Now to inform the Judgments, and Con<g ref="char:EOLhyphen"/>vince the Conſciences of all Men in ſuch a Jun<g ref="char:EOLhyphen"/>cture as this preſent Seaſon is, of theſe two things.</p>
+            <p>
+               <hi>Firſt,</hi> What the Efficient and Firſt Moving Cauſe of all their Trouble is, which if but re<g ref="char:EOLhyphen"/>moved, the Effect muſt needs ceaſe. And,</p>
+            <p>
+               <hi>Secondly,</hi> What are the Effectual Means, Ef<g ref="char:EOLhyphen"/>ficaciouſly to remove the Cauſe of our Trouble to all intents and purpoſes, ſo as not to hurt us, <hi>hic labor, hoc opus eſt.</hi>
+            </p>
+            <p>This is our preſent and Principal Work and Buſineſs: I beſeech God to give us all Grace, that we may ſucceſsfully attend thereunto.</p>
+            <p>And according to my Ability and Opportu<g ref="char:EOLhyphen"/>nity, I have demonſtrated in the following Di<g ref="char:EOLhyphen"/>ſcourſe; theſe two things among others, in An<g ref="char:EOLhyphen"/>ſwer to thoſe before mentioned.</p>
+            <p>
+               <hi>Firſt,</hi> That the Reins of all Trouble, and all the Inſtruments of it, are intirely held in the Hands of the Great and Holy God, who order<g ref="char:EOLhyphen"/>eth and diſpoſeth of them for his own Glory; and that they go at his bidding, for the puniſh<g ref="char:EOLhyphen"/>ing of Evil Doers, and the praiſe of them that do well. And,</p>
+            <p>
+               <hi>Secondly,</hi> That an Unfeigned Repentance, at<g ref="char:EOLhyphen"/>tended with a thorough Reformation, and fer<g ref="char:EOLhyphen"/>vent
+<pb facs="tcp:99830:4"/>Supplication for Pardon and Forgiveneſs, are effectual means for the compleat Removal of all the Troubles we feel, or fear will befall us.</p>
+            <p>If this be firſt well done, then we may on good grounds expect a bleſſing from God on all our Endeavours, and on thoſe prudent and likely Meaſures, which, as Chriſtians, and as Reaſonable Creatures, we may be guided unto as lawful, uſeful, and neceſſary Mediums to re<g ref="char:EOLhyphen"/>move what we ſeek to avoid.</p>
+            <p>But if this work of Repentance, Reformati<g ref="char:EOLhyphen"/>on, and Unceſſant Seeking of God and his Fa<g ref="char:EOLhyphen"/>vour, at whoſe diſpoſal we ſtand or fall, be not ſpeedily and reſolvedly ſet about in the ſtrength of the Grace of God, <hi>we are undone;</hi> and all o<g ref="char:EOLhyphen"/>ther attempts will prove abortive and fruitleſs; and all our hopes and expectations from any o<g ref="char:EOLhyphen"/>ther Counſels or Deſigns, will come to no<g ref="char:EOLhyphen"/>thing.</p>
+            <p>Nothing leſs than the Infinite Unaccountable Free and Sovereign Grace of God, can ſave an Impenitent and Unreformed People; I pray God to Pity, Pardon, Spare and Save this ſin<g ref="char:EOLhyphen"/>ful City and Nation, for his own Name and Glory ſake, and for his Word and Promiſe ſake, that the ſet time to favour <hi>Sion</hi> may now come,
+<pb facs="tcp:99830:4"/>and then we ſhall certainly be delivered, <hi>Pſal.</hi> 102.13, 14, 15.</p>
+            <p>But ſure I am, nothing elſe can help us, with<g ref="char:EOLhyphen"/>out Repentance, <hi>Luke</hi> 13.3.</p>
+            <p>And if God ſhould for his own Name ſake ſave us, as he did <hi>Iſrael;</hi> yet the Impenitent and Unreformed are not like to be the better for it, unleſs the goodneſs of God lead them to Repen<g ref="char:EOLhyphen"/>tance by it, <hi>Rom.</hi> 2.4. and to fear him for it, Jer. 33.9. Hoſ. 3.9. <hi>For there is no peace to the wicked, ſaith the Lord; and when he ſaveth the Righteous out of Trouble, then he bringeth the wicked in their ſtead,</hi> 2 Pet. 2.9. When the one rejoyce, the other ſhall mourn, <hi>Iſa.</hi> 65.13. So that we muſt repent and reform firſt or laſt; we ought to begin, 'tis beſt ſo to do, God grant we may accordingly.</p>
+            <p>And to prevail on this City and Nation to Conſider their ways, to Repent and Reform, and and ſeek the Favour of God alone, is the deſign and endeavour of this Undertaking, and the Purport and Intent of the following Diſ<g ref="char:EOLhyphen"/>courſe.</p>
+            <p>And therefore it is dreſſed in a plain and homely ſtile, to reach the meaneſt capacity, not to pleaſe the over-curious and nice Palates of too dainty Hearers, but to reach the Heart, Inform
+<pb facs="tcp:99830:5"/>the Judgment, and convince the Conſcience, as moſt ſuitable to ſuch a ſubject, rather than to humour the fancy.</p>
+            <p>In a Storm none deſires the Pilot to give his directions in a gilded Oration, but to tell quick<g ref="char:EOLhyphen"/>ly, and ſpeak plainly, what is moſt neceſſary to be done: And what <hi>Ovid</hi> ſaith of his Book <hi>de Triſtibus,</hi>
+               <q>
+                  <l>Vade ſed incultus, qualem decet exſulis eſſe,</l>
+                  <l>Infelix habitum, temporis hujus habe.</l>
+               </q>The ſame may be ſaid of the preſent Seaſon: Nor indeed would the time allotted me, admit; it being ſo very ſhort, that conſtrained me to thruſt it forth courſer than I deſire to preſent the Publick withall.</p>
+            <p>I ſhall not further detain you Lordſhip, but with a Tender of my Thankful Acknowledg<g ref="char:EOLhyphen"/>ment of your former Favours to me, which though I cannot requite, yet do not forget.</p>
+            <p>And alſo, humbly to manifeſt my Grateful Sence of the kind Acceptance my poor Labours found with your Worthy Brethren the Al<g ref="char:EOLhyphen"/>dermen, who were pleaſed to vouchſafe the hearing the following Diſcourſe. And,</p>
+            <pb facs="tcp:99830:5"/>
+            <p>
+               <hi>Laſtly,</hi> To expreſs my joy at the News of the Reſtauration of the Rights and Priviledges of the City; things which I have publickly ex<g ref="char:EOLhyphen"/>preſſed the high value I had for them former<g ref="char:EOLhyphen"/>ly to my coſt, which I do not repent of; it be<g ref="char:EOLhyphen"/>ing the Duty of an Engliſh Man, and a Chri<g ref="char:EOLhyphen"/>ſtian, on all occaſions to own and eſteem them: And I am ſatisfied your Lordſhip doth ſo, as well as any other perſon.</p>
+            <p>I pray God give this City and Nation Re<g ref="char:EOLhyphen"/>pentance and Reformation, and then we may hope for a Bleſſing on all Endeavours for its welfare; which that God of his Infinite Mercy will yet be pleaſed to afford them, is, and ſhall be the Prayers of,</p>
+            <closer>
+               <signed>
+                  <hi>Your Lordſhips Moſt Humble Servant,</hi> James Warner.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:99830:6"/>
+            <pb n="1" facs="tcp:99830:6" rendition="simple:additions"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Job 34. ver. 29.</hi>
+                  </bibl>
+                  <p>When he giveth quietneſs, who then can make trouble? And when he hideth his Face, who then can behold him? Whe<g ref="char:EOLhyphen"/>ther it be done againſt a Nation, or againſt a Man only.</p>
+               </q>
+            </epigraph>
+            <p>THIS Chapter containeth the Second Diſ<g ref="char:EOLhyphen"/>courſe of <hi>Elihu</hi> with <hi>Job,</hi> beginning at the firſt <hi>verſe, Furthermore Elihu anſwered,</hi> &amp;c. wherein he reproveth him for ſaying, firſt, <hi>That God had took away his Judgment;</hi> verſe 5. and Se<g ref="char:EOLhyphen"/>condly, <hi>That it profiteth a man nothing, that he ſhould delight himſelf with God,</hi> verſe 9. In Anſwer where<g ref="char:EOLhyphen"/>unto he ſaith, verſe 10. <hi>Far be it from God, that he ſhould do wickedneſs; and from the Almighty, that he ſhould commit iniquity:</hi> For ſaith he, verſe 11. <hi>The work of a man ſhall he render unto him, and cauſe eve<g ref="char:EOLhyphen"/>ry man to find according to his ways:</hi> Yea, verſe 12. <hi>Surely God will not do wickedneſs, nor will the Almigh<g ref="char:EOLhyphen"/>ty pervert Judgment;</hi> for it is below him ſo to do, and he is the Supream Judge of the whole World. Verſe 13. <hi>Who hath given him a charge over the Earth? Or who hath diſpoſed the whole World?</hi> Verſe 14, 15.
+<pb n="2" facs="tcp:99830:7" rendition="simple:additions"/>
+               <hi>If he ſet his heart upon man, and if he gather unto him<g ref="char:EOLhyphen"/>ſelf his Spirit, all Fleſh ſhall periſh together, and man ſhall turn again to duſt.</hi> Again, he ſheweth wherefore he will not pervert Judgment: Firſt, Becauſe he is im<g ref="char:EOLhyphen"/>partial, is no reſpecter of perſons: This he not only affirmeth of him, but giveth inſtances of his ſore and ſuddain Judgments on many mighty men for their ſins. <hi>Secondly,</hi> Becauſe he is Omnipreſent, Omniſcient, and no Cauſe or Perſon can be hid from him. Verſe 19, 20, 21. <hi>He accepteth not the Perſons of Princes, nor regardeth the Rich more than the Poor, for they all are the work of his hands. In a moment ſhall they die, and the mighty be taken away without hand. For his Eyes are upon the ways of man, and be ſeeth all his goings.</hi> Verſe 22. <hi>There is no darkneſs nor ſhadow of Death, where the workers of iniquity may hide themſelves.</hi> Verſe 24. <hi>He ſhall break in pieces mighty men without number, and ſet others in their ſtead.</hi> Verſe 25, 26, 27, 28. <hi>He ſtriketh them as wicked men, in the open ſight of others; becauſe they turned back from him, and would not conſider any of his ways: So that they cauſe the cry of the Poor to come unto him, and he heareth the cry of the afflicted.</hi> Thus far he proves that God doth not take away any mans Judgment; and this he further demonſtrates in the next verſe, which containeth the Words of our Text, and doth therein aſſume likewiſe the proof of the ſecond point which he had undertaken to An<g ref="char:EOLhyphen"/>ſwer <hi>Job</hi> in, <hi>viz.</hi> That there is profit in delight<g ref="char:EOLhyphen"/>ing in God, becauſe he holdeth the diſtribution both of all Tranquility, and all Trouble in his own hands, to diſpoſe of it unto men as he is pleaſed or diſplea<g ref="char:EOLhyphen"/>ſed with them, and their ways, as our Text declares; and therefore all men may expect Right Judgment from him, and great profit by delighting in him. The
+<pb n="3" facs="tcp:99830:7" rendition="simple:additions"/>words in the Original are thus expreſſed, <hi>umi</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ve hu Jaſhkit umi jarſhjah,</hi> &amp;c. the word <hi>jaſh<g ref="char:EOLhyphen"/>kit</hi> from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> he was quiet, hath relation here to outward tranquility and peace, which being put in oppoſition to <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, determineth the ſenſe of that word which ſignifies either wickedneſs, or to condemn for it; in other places, to refer to trouble here in this, and is ſo tranſlated in this place; and they may be thus read, <hi>When he,</hi> (viz. <hi>God</hi>) <hi>cauſeth Quiet, who then can cauſe Trouble,</hi> &amp;c.</p>
+            <p>The Text compriſeth a double Queſtion, which have a double Reference.</p>
+            <p>The firſt Queſtion is this, <hi>When he cauſeth Quiet, who then can cauſe Trouble?</hi>
+            </p>
+            <p>The Second is this, <hi>And when he hideth his Face, who then can behold him?</hi> And both of them being Af<g ref="char:EOLhyphen"/>firmative, imply an Univerſal Negation.</p>
+            <p>
+               <hi>Who can cauſe Trouble?</hi> Is as much as if he ſhould ſay, None can.</p>
+            <p>And the other Queſtion, <hi>Who can behold him?</hi> Is as much as to ſay, None can behold him.</p>
+            <p>The Reference likewiſe is twofold, <hi>viz.</hi> whether it be done, 1ſt. <hi>Againſt a Nation:</hi> or 2ly. <hi>A Man only.</hi> A Nation is not too great for his Care, <hi>
+                  <g ref="char:V">Ʋ</g>nto whom all Nations are but as the ſmall duſt of the Ballance,</hi> Iſai. 40.15. Nor is a Man only too ſmall for his Provi<g ref="char:EOLhyphen"/>dence, <hi>Who numbreth all the Hairs of our Heads, without whoſe will a Sparrow falleth not to the ground,</hi> Matt. 10.29, 30.</p>
+            <p>From the two Queſtions in our Text, as thus ex<g ref="char:EOLhyphen"/>plained, ariſe theſe two Propoſitions.</p>
+            <p>
+               <hi>First,</hi> That when, and where God giveth Quiet, then, and there none can cauſe Trouble.</p>
+            <pb n="4" facs="tcp:99830:8" rendition="simple:additions"/>
+            <p>
+               <hi>Secondly,</hi> That <hi>When God hideth his Face, then none can behold him.</hi> The explication of the Nature and Manner of Gods hiding his Face, ſhall be attended unto in its proper place.</p>
+            <p>
+               <hi>Firſt,</hi> Then, When God giveth Quietneſs, then none can cauſe Trouble.</p>
+            <p>We have here, 1ſt. Something Implied: 2ly. The Propoſition Expreſſed.</p>
+            <p n="1">1. There is implied in the firſt Queſtion, <hi>viz. When God cauſeth quietneſs, who then can cauſe trouble?</hi> That all other quiet, beſides that only which God giveth, may, and ſhall be diſturbed; this the Context gives a relation of, to wit, of Great and Mighty Men, whoſe quiet was turned into great and ſuddain trou<g ref="char:EOLhyphen"/>ble by the Lord for their ſins: So that it is the peculi<g ref="char:EOLhyphen"/>ar Mark and Property of the Quiet which God gi<g ref="char:EOLhyphen"/>veth, that none can remove it; and therefore when God is removing our Quiet, 'tis high time for us to fearch our hearts and ways, to examine our quiet, to ſee whether it be of God or no; and 'tis much to be ſeared, that we, who are ſinners, have offended God, when we ſee him who delighteth in Mercy, and waiteth to be Gracious, coming forth in the way of his Judgments, to do his ſtrange work; for he is no reſpecter of Perſons; but ſaith of his People, <hi>Tou only have I known of all People that dwell upon the face of the Earth; therefore I will puniſh you for all your ſins.</hi>
+            </p>
+            <p>Now that we may the better ſee the Excellency of the Quiet God gives in the peculiar ſtability thereof, as proper only unto it, we muſt firſt demonſtrate the In<g ref="char:EOLhyphen"/>ſtability of all other Peace or Quiet that is not of God, and how ſuddainly it is removed by the Lord, in his diſpleaſure. Inſtances hereof are many, our Lord tells us, <hi>That in the days of</hi> Noah, <hi>they were eating, drink<g ref="char:EOLhyphen"/>ing,</hi>
+               <pb n="5" facs="tcp:99830:8"/>&amp;c. <hi>till the day that</hi> Noah <hi>entred into the Ark, and knew not until the Flood came, and took them all away; ſo ſhall alſo the coming of the Son of Man be,</hi> Matt. 24.37, 38, 39 Therefore bids them take heed of ſurfeiting, <hi>&amp;c. Leaſt that day overtake them una<g ref="char:EOLhyphen"/>wares, for as a Snare ſhall it come on all them that dwell on the face of the whole Earth,</hi> Luke 21.34, 35, 36, <hi>&amp;c. And as it was in the days of</hi> Lot, <hi>they did eat, and drink, and plant,</hi> &amp;c. <hi>but the ſame day that</hi> Lot <hi>went out of</hi> So<g ref="char:EOLhyphen"/>dom, <hi>it rained Fire and Brimſtone from Heaven, even thus ſhall it be in the day when the Son of Man is Re<g ref="char:EOLhyphen"/>vealed,</hi> Luke 17.28, 29, 30.</p>
+            <p>Such peace and carnal ſecurity is but a Fools Para<g ref="char:EOLhyphen"/>diſe, a preludium to War, and doth but help to ag<g ref="char:EOLhyphen"/>gravate our Miſery, by reaſon of the ſurprize of ſud<g ref="char:EOLhyphen"/>dain trouble coming upon great quiet.</p>
+            <p>And to demonſtrate further the uncertainty of all other Peace, beſides that which God giveth, we muſt conſider the uncertainty and unconſtancy of the In<g ref="char:EOLhyphen"/>ſtruments of it; and alſo that it is but a partial Peace; while we avoid one trouble, we fall into many.</p>
+            <p n="1">1ſt. The uncertainty of the Inſtruments of it, all men are mortal, and when they die, all that depends upon them falleth to the ground; their Love and their Hatred, and all their Thoughts periſh with them; <hi>Therefore ceaſe ye from man whoſe breath is in his No<g ref="char:EOLhyphen"/>ſtrils, for wherein is he to be accounted of,</hi> Iſai. 2.22, <hi>ult.</hi>
+            </p>
+            <p n="2">2ly. As mans being, and abode here is uncertain, ſo is his Mind while he is here: Firſt, The Intentions and Mind of Man, only God who ſearcheth the hearts knoweth; and truth is Gods property, not mans, Rom. 3. &amp; 4. <hi>Let God be true, and every man a liar;</hi> we are bound to be true, but he only to be truſted and depend<g ref="char:EOLhyphen"/>ed upon with all the heart.</p>
+            <pb n="6" facs="tcp:99830:9"/>
+            <p n="3">3ly. Alſo when mens Intentions, which God only knoweth, are right for us, yet foraſmuch as that they are moved by various Principles of Self-intereſt, <hi>&amp;c.</hi> as the apprehenſions of Intereſt doth vary, ſo doth our Intentions and Affections, as the Wind; and this is one great piece of Humane Frailty.</p>
+            <p n="4">4ly. As the Uncertainty and Unconſtancy of the In<g ref="char:EOLhyphen"/>ſtruments, ſo likewiſe the defective ſhortneſs of the Peace its ſelf doth diſcover its uncertainty; when to avoid one trouble we fall into a greater, as was ſeen in the caſe of <hi>Ahaz,</hi> 2 Kings 16.7. compared with 2 Chron. 28. from 1, to 20, &amp;c. <hi>The Kings of</hi> Stria <hi>and</hi> Iſrael <hi>came againſt him, the King of</hi> Iſrael <hi>ſlew</hi> 120000 <hi>in one day, and took</hi> 200000 <hi>Women and Children cap<g ref="char:EOLhyphen"/>tive:</hi> Upon this diſafter he ſends much Gold, <hi>&amp;c.</hi> which he could ill ſpare, to the King of <hi>Aſſyria,</hi> and he came, but <hi>diſtreſſed, and strengthned him not.</hi> Thus when under Gods diſpleaſure we fly from the Lyon, and fall into the Paw of the Bear, ſuch Quiet ſaith, <hi>Safety, is not in me.</hi>
+            </p>
+            <p>So that it appears plainly, that all quietneſs is un<g ref="char:EOLhyphen"/>certain, except that only which God cauſeth.</p>
+            <p>Hence we may infer, that it is our Great and Im<g ref="char:EOLhyphen"/>portant Duty to look well to the quiet on which we lean, and not deceive our own Souls, by ſinful truſt<g ref="char:EOLhyphen"/>ing in Creatures, Jer. 17 5. <hi>Thus ſaith the Lord, Cur<g ref="char:EOLhyphen"/>ſed be the man that truſteth in man, and maketh Fleſh his Arm, and whoſe heart departeth from the Lord.</hi> And having diſcovered the Uncertainty that is in Creatures, we are led thereby to ſeek for it only in God, where alone it is to be found; and this leads to that which is expreſſed in the firſt Propoſition, which is, <hi>That when God cauſeth Quietneſs, none can cauſe Trouble.</hi>
+            </p>
+            <pb n="7" facs="tcp:99830:9"/>
+            <p>In the orderly Proſecution of which Propoſition, we are to conſider,</p>
+            <p>
+               <hi>Firſt,</hi> The Subject, Gods giving Quietneſs.</p>
+            <p>
+               <hi>Secondly,</hi> The Predicate, that then none can cauſe Trouble.</p>
+            <p>
+               <hi>Firſt,</hi> The Subject concerning the Quietneſs which God giveth, we are to conſider three things:
+<list>
+                  <item>1. The Qualifications of the Subjects of it, the Peo<g ref="char:EOLhyphen"/>ple whom God doth favour with this Quietneſs.</item>
+                  <item>2. The manner of giving of it, and the Inſtruments of it.</item>
+                  <item>3. The Nature and Properties of the Quiet which is the Gift of God.</item>
+               </list>
+            </p>
+            <p n="1">1. Then for the Qualifications of the People that are the Subjects of this Quiet, they are theſe among others, which do in eſpecial manner concern us to Examin our ſelves, whether we are endowed with them or not: As <hi>Firſt.</hi>
+            </p>
+            <p>When paſt trouble hath been ſo Sanctifyed to us, as that we have been humbled before the Lord in the ſight of our Sins; all the world doth know, that God hath had a Controverſie with his People, and they know likewiſe, that we have deſerved it at his hands all men have ſeen our Covetouſneſs, Lukewarmneſs, Indifferency in the things of God, Formality, <hi>&amp;c.</hi> And 'tis fit they ſhould ſee our Humiliation and Repentance, <hi>for unleſs ye Repent, ye ſhall likewiſe Periſh,</hi> Luke 13.</p>
+            <p>Now where a People have been Humbled under their Afflictions, the Peace then which they enjoy, is the effect of Gods Promiſe, and therefore a mark of his Favour, <hi>Levit.</hi> 26. v. 40, 41, 42, 43. <hi>If they ſhall confeſs their Iniquity,</hi> &amp;c. <hi>v.</hi> 41. <hi>If then their <g ref="char:V">Ʋ</g>ncircum<g ref="char:EOLhyphen"/>ciſed hearts be Humbled, and they then accept of the Pu<g ref="char:EOLhyphen"/>niſhment of their Iniquity. v.</hi> 42. <hi>Then will I Remember
+<pb n="8" facs="tcp:99830:10"/>my Covenant with</hi> Abraham, <hi>&amp;c. and I will remember the Land.</hi> But it is greatly to be lamented, that there is no appearance of this Repentance and Humiliation to be ſeen publickly amongſt us, as the matter calls for, becauſe <hi>He that being often Reproved, hardeneth his Neck, ſhall ſuddenly be deſtroyed, and that without Reme<g ref="char:EOLhyphen"/>dy,</hi> Prov. 29.1. as ſhall be more demonſtrated in its proper place. again</p>
+            <p n="2">2. As Quiet is promiſed to Repentance, ſo likewiſe to ſervent Prayer for it, and this he requires of us, if we would have it in his way. <hi>Ezek.</hi> 36.37. <hi>Thus ſaith the Lord God, I will yet for this be enquired of by the Houſe of</hi> Iſrael <hi>to do it for them.</hi> He hath declared himſelf to be a God hearing Prayer, and according un<g ref="char:EOLhyphen"/>to this duty, <hi>Solomon</hi> (1 King 8.33.) ſaith, <hi>When thy People</hi> Iſrael <hi>be ſmitten down before the Enemy, becauſe they have Sinned againſt thee, and ſhall turn again to thee and confeſs thy name, and Pray and make Supplication un<g ref="char:EOLhyphen"/>to thee in this Houſe: Then hear thou in Heaven, and forgive, and bring them again unto the Land which thou gaveſt unto their Fathers.</hi> This the Lord promiſed to do accordingly; now when our Quiet is come in an<g ref="char:EOLhyphen"/>ſwer to Fervent Prayer, 'tis a ſign 'tis God's Gift, ſo ſaith <hi>Hannah,</hi> 1 Sam. 1.27. <hi>For this Child I Prayed, and the Lord hath given me my Petition,</hi> &amp;c. But where is the Spirit of Prayer? Nothing of this kind hath been viſible amongſt us, which is greatly to be lamented; we are not like to have quiet from God, until from a ſence of the value and worth of it, we go to him alone for it; nor are we likely to uſe it for him, when we do not ſeek it from him: <hi>Hannah</hi> ſaith, <hi>The Lord hath given me my Petition, therefore I have lent him to the Lord:</hi> Which leads to the third Qualification.</p>
+            <p>
+               <hi>Thirdly,</hi> Another Qalification of the People whoſe
+<pb n="9" facs="tcp:99830:10"/>Peace God is the Author of, is this, That they do thankfully Uſe, and diligently Improve the mercy vouchſaſed to them in the Quiet they enjoy. This God deſigns it for, and requires and expects a due Improv<g ref="char:EOLhyphen"/>ment of Mercies at our hands as a ſuitable and proper expreſſion of gratitude unto him. When God ſent <hi>Moſes</hi> to <hi>Phoroah;</hi> King of <hi>Egypt,</hi> to ſend <hi>Iſrael</hi> forth, it was always for this work, to ſervo him. <hi>God</hi> ſaith, <hi>Exod.</hi> 3.12. <hi>This ſhall be a token unto thee that I have ſent thee, when thou haſt brought forth the People out of</hi> Egypt, <hi>ye ſhall ſerve God in this Mountain.</hi> This was his errand, <hi>verſe</hi> 18. <hi>Let us go that we may Sacrifice to the Lord our God.</hi> Exod. 4.23. God ſaith <hi>Let my ſon go that he may ſerve me;</hi> and at all times when <hi>Moſes</hi> goeth to <hi>Pharoah</hi> this was his buſineſs; as <hi>Chap.</hi> 5.1, 2, 3, &amp;c. <hi>Chap.</hi> 7.16. <hi>Chap.</hi> 8. 1, 8, 20, 25, 26, 27, 28. <hi>Chap.</hi> 9.1 13. <hi>Chap.</hi> 10.3, 7, 8, 9, 10, 11, 24, 25.26. <hi>Cap.</hi> 12.31, &amp;c. So when <hi>God</hi> gave the Law, <hi>Exod.</hi> 20. (he ſaith) <hi>Hear O Iſrael, I am the Lord that brought thee out of the Houſe of Servants, thou ſhalt have no other Gods before me,</hi> &amp;c. He makes the Deliverance which he had wrought, the Motive to their Obedi<g ref="char:EOLhyphen"/>ence. <hi>Solomon</hi>'s Reſt, 1 <hi>King</hi> 5.4. was that he might build the Temple. We are Delivered by <hi>Chriſt,</hi> that we might ſerve <hi>God; Luke</hi> 1.74, 75. <hi>That he would grant unto us, that we being delivered out of the hands of our Enemies, might ſerve him without fear, in holineſs and righteouſneſs,</hi> &amp;c. In nothing more doth the Holineſs of God appear againſt Sin, then in the way of our De<g ref="char:EOLhyphen"/>liverance and Redemption; by his pouring forth his Wrath to the uttermoſt on his only begotten Son. when made a Propitiation for us; and therefore requires that every one that nameth the name of <hi>Chriſt,</hi> do de<g ref="char:EOLhyphen"/>part from Iniquity; and this improvement of the Qui<g ref="char:EOLhyphen"/>et
+<pb n="10" facs="tcp:99830:11"/>which God giveth, we have an inſtance of <hi>Acts</hi> 9 31. <hi>Then had the Churches Reſt throughout all Judea and Galilee and Samaria, and were Edifyed, and walking in the fear of the Lord, and comfort of the Holy Ghoſt were multi<g ref="char:EOLhyphen"/>plyed.</hi> So that this God deſigneth the Quiet for, which he giveth, that it may be thus uſed; and when it is ſo Improved, it is a ſign that it was given of God; for ſuch have a right to it. But it is too apparent, that we have not duly Improved the Liberty we have Enjoyed, and have cauſe to fear and ſuſpect our ſelves, that we have not the Qualifications of a People to whom God's Quiet is given, in a way of Promiſe; but are obliged to ſeek after them as we value the Quiet which God giveth.</p>
+            <p>
+               <hi>Secondly,</hi> The Second thing we are to Enquire into about the Subject of this Quiet, is the manner of its being Produced, which is of God. and</p>
+            <p n="1">
+               <hi>1ſt.</hi> It is by his Own Preſence in and with a People: (<hi>Exod.</hi> 33.14.) God ſaith, <hi>My Preſence ſhall go with thee, and I will give thee Reſt.</hi> So it is ſaid in <hi>Joſhu<g ref="char:EOLhyphen"/>ah,</hi> God gave them Reſt which was by his Preſence among them, Fighting for them, Guiding of them, <hi>&amp;c.</hi> And this Preſence of God with a People, is the greateſt Dignity and Benefit a People can Enjoy.</p>
+            <p>The Beatyfical Viſion conſiſts in being ever with the Lord in his Preſence: <hi>God</hi> ſaith, <hi>the Nations ſhall ſay, What People is there like to this Nation, that hath God ſo nigh to them as the Lord is in all you call upon him for,</hi> Deut. 4.6, 7.</p>
+            <p>Again, The Lord doth often give Quiet by mean and contemptable means, as by <hi>Gideon, Jeptath, Sa<g ref="char:EOLhyphen"/>muel</hi> &amp;c. that the Power of <hi>God</hi> may appear thereby, when <hi>out of the Months of Babes he ordaineth Strength;</hi> yet always by Righteous Ways, for He is a Holy
+<pb n="11" facs="tcp:99830:11"/>
+               <hi>God;</hi> he is Almighty, therefore needs no baſe means; Infinitely Holy, therefore abhors all Unjuſt Wayes; ſome he excludes from his Service. Again,</p>
+            <p>
+               <hi>Thirdly,</hi> The Peace which <hi>God</hi> giveth, may be ſeen by a view of its Nature and Properties, as</p>
+            <p n="1">
+               <hi>1ſt.</hi> 'Tis Noble, Liberal, Free and Full, and in all reſpects a <hi>none ſuch,</hi> James 1.5. <hi>If any of you lack Wiſ<g ref="char:EOLhyphen"/>dom, let him ask of God, that giveth to all men Liberally and upbraideth not.</hi> 'Tis Liberally Free and Noble, no Baſe Conditions, but is upon honourable terms: <hi>And upbraideth not;</hi> doth not twit them of it, as ſome oft Repeat one Favour; but he giveth Innumerable that paſs by us unthought of. <hi>Prov.</hi> 10.22. <hi>The Bleſſing of the Lord it maketh Rich, and he addeth no Sorrow with it, and Peace is his Bleſſing.</hi> Pſalm. 29.11. <hi>He will Bleſs his People with Peace.</hi> So that 'tis Unmixed, more Pure and Univerſal then other Quiet; 'tis Peace round about on every ſide, as <hi>Solomon</hi> ſaith, 1 <hi>King</hi> 5.4. <hi>The Lord hath given me reſt on every ſide, there is neither Adverſary, nor Evil Occurrent.</hi> And thus it continued till he left <hi>God,</hi> and ſo then he raiſed him an Adverſary: So in <hi>Joſhuah</hi>'s time, there was not a man left to ſtand againſt them, but when they turned to <hi>Idolatry,</hi> the Book of <hi>Judges</hi> gives a large account of the Lords Selling them into the hands of their Enemies, <hi>Judg</hi> 2.12.13.14. However till they Sinned, they had a compleat quiet. So of the Delive<g ref="char:EOLhyphen"/>rance by <hi>Moſes,</hi> Exod. 10.26. <hi>Our Cattle alſo ſhall go with us, there ſhall not an hoof be left behind;</hi> the like to <hi>David,</hi> 2 Sam. 7.1. To <hi>Iſrael,</hi> Joſh. 21.44. To <hi>Aſa.</hi> 2 Chron. 14.6.7. Peace on every ſide, as he mak<g ref="char:EOLhyphen"/>eth Sinners a Magor Miſabib, a Terror round about; ſo he giveth Peace round about, is a wall of Fire round about, for Defence to them whoſe quiet he gives.</p>
+            <pb n="12" facs="tcp:99830:12"/>
+            <p>
+               <hi>Laſtly.</hi> 'Tis durable, none can remove it, but he that gave it; as it was in <hi>Joſhua</hi>'s time, till God ſent them trouble for their ſins, none could trouble them. And this leads us to the Predicate of the firſt Queſti<g ref="char:EOLhyphen"/>on, to wit, <hi>That none can cauſe Trouble.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Wherein none can cauſe Trouble, is evident, to wit, in that kind, that the quiet is of, <hi>When God giveth Quiet from War, none can raiſe War till he ſendeth it:</hi> And therefore, 2ly. We ſhall enquire, Wherefore none can cauſe trouble to ſuch whom God giveth quiet unto; and this is for two Reaſons.</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe all trouble is God's Creature, he is the Author of it, but not of Sin, for he is holy: When the Creation was finiſhed, all things were good, and there was no trouble till Sin entred, then death entred by ſin; <hi>in the day thou catest,</hi> &amp;c. <hi>thou ſhalt die:</hi> And when <hi>Cain</hi> ſlew his Brother, the Ground was curſed for his ſake: When the World ſinned, the Flood overflowed it; and though God hath promiſed he will not again drown the World, and given his Bow in the Cloud for a Sign of his Covenant; yet he is the ſame Holy Sin-Avenging God that ever he was. So when <hi>Sodom</hi> ſinned through Pride, Idleneſs, and Fulneſs of Bread, which is too viſibly our Frame, <hi>then Fire came from Heaven, and deſtroyed them;</hi> So that God hath the Diſtribution and Ordering of it in his own hands; and 'tis Infinite Wiſdom ſo to do, whereby godlineſs hath the Promiſe of this Life, as well as that to come, and Sinners a Puniſhment here, that they may know there is a Judgment.</p>
+            <p>Now this diſpoſal of trouble God hath aſſumed to himſelf, Iſa. 45.7. <hi>I Form Light, I Create Darkneſs; I make Peace, I Create, Evil</hi> (viz.) <hi>of trouble; I the Lord do all theſe things.</hi> Job 5.6. <hi>Although Affliction cometh
+<pb n="13" facs="tcp:99830:12"/>not forth of the dust, neither doth Trouble ſpring out of the ground,</hi> &amp;c. Amos 3.6. <hi>Shall there be evil in a City, and the Lord hath not done it?</hi> So that God or<g ref="char:EOLhyphen"/>dereth trouble by his own hand; and therefore where <hi>he giveth Quiet, none can cauſe Trouble,</hi> becauſe none hath the diſpoſal of it but himſelf. Again,</p>
+            <p>
+               <hi>Secondly,</hi> As he hath all trouble it ſelf in his own hands; ſo he hath all the Inſtruments of Trou<g ref="char:EOLhyphen"/>ble at his own ordering: nothing can move without him, without his Power and Permiſſion. All Inſtru<g ref="char:EOLhyphen"/>ments of Trouble may be reduced to theſe Heads, ei<g ref="char:EOLhyphen"/>ther, 1ſt. Perſons; or, 2ly. Things.</p>
+            <p n="1">1ſt. Perſons, and theſe are either, 1ſt. Evil Angels. 2ly. Evil Men.</p>
+            <p>
+               <hi>First,</hi> Evil Angels; Satan is called, <hi>ho Ecthros, <hi>the Enemy;</hi> Apollion</hi> and <hi>Abaddon, <hi>the Deſtroyer, who go<g ref="char:EOLhyphen"/>eth about as a Roaring Lyon, ſeeking whom he may de<g ref="char:EOLhyphen"/>vour.</hi>
+               </hi> 1 Pet. 5.8.</p>
+            <p>Now the Malice and Motion of Satan to hurt us, is under the Special Reſtraint of God; hence it is ſaid in <hi>Job,</hi> Satan ſaith, <hi>Thou haſt ſet an Hedge about him,</hi> Job 1.10. And in ſeducing <hi>Ahab</hi> to go to <hi>Ra<g ref="char:EOLhyphen"/>moth Gilead,</hi> the Evil Spirit doth firſt get leave to ſe<g ref="char:EOLhyphen"/>duce him, 1 <hi>Kings</hi> 22.22, 23. The Devils could not enter into the herd of Swine, until that Chriſt gave them leave ſo to do, <hi>Mat.</hi> 8.31, 32. Chriſt ſaith unto <hi>Peter, Simon, Satan hath deſired to have thee, that he might winnow thee as Wheat, but I have prayed for thee, that thy Faith fail not,</hi> Luk. 22.31.</p>
+            <p>And that God ordereth theſe things, doth further appear, if we conſider what God permits Satan to Aſſault us for; if we are Proud, to Humble us; if Secure, to Awaken us to Prayer and Watchings; he is Conquered by Chriſt, and <hi>reſerved in Chains to
+<pb n="14" facs="tcp:99830:13"/>the Judgment of the Great Day,</hi> Jude 6.</p>
+            <p>Now if God ſpeak Peace, Satan cannot cauſe trou<g ref="char:EOLhyphen"/>ble; becauſe much of the trouble he is permitted to cauſe, is upon God's Controverſie with us; for God <hi>will not ſuffer us to be tempted above that we are able, but will with the Temptation alſo make way to eſcape,</hi> 1 Cor. 10.13. <hi>God knoweth how to deliver the godly out of temptations,</hi> &amp;c. 2 Pet. 2.9.</p>
+            <p>And as Satan himſelf cannot hurt us without per<g ref="char:EOLhyphen"/>miſſion: So 2ly. The worſt of wicked men, thoſe who give themſelves to the Devil, that they may do miſchief, <hi>viz.</hi> Wizards and Witches cannot harm us; as we ſee in the inſtance of <hi>Balaam,</hi> Num. 23.23. <hi>There is no inchantment againſt</hi> Jacob, <hi>nor Divinati<g ref="char:EOLhyphen"/>on againſt</hi> Iſrael: <hi>Balaam</hi> loved the Wages of Unrigh<g ref="char:EOLhyphen"/>teouſneſs, and would have curſed <hi>Iſrael,</hi> but God made him ſay, <hi>I have not beheld Iniquity in</hi> Jacob, <hi>nor ſeen Perverſeneſs in</hi> Iſrael; <hi>the Lord his God is with him, and the ſhout of a King is among them,</hi> Num. 23.21. This God bids them remember, <hi>what</hi> Balack <hi>King of</hi> Mohab <hi>conſulted, and</hi> Balam <hi>anſwered him from</hi> Shittim <hi>unto</hi> Gilgal, <hi>that they might know the righte<g ref="char:EOLhyphen"/>ouſneſs of God,</hi> Mica. 6.5.</p>
+            <p>Again, as men are Inſtruments of Trouble, they are ſo, either, 1ſt. By their Heads and Counſels; or, 2ly. By their Hands and Power; or, 3ly. By their Hearts Inclinations and Affections: Now all theſe are ordered and diſpoſed by the Lord, and cannot move againſt him.</p>
+            <p>
+               <hi>Firſt.</hi> The Heads and Counſels of Men; it is cer<g ref="char:EOLhyphen"/>tain that much of the ſafety of a Nation depends up<g ref="char:EOLhyphen"/>on the Conſultation for its good; and much of its Trouble depends upon the Conſpiracies of Men for its hurt.</p>
+            <pb n="15" facs="tcp:99830:13"/>
+            <p>Now <hi>There is no Wiſdom, nor Counſel, nor Device against the Lord,</hi> Prov. 21.30. <hi>He bringeth the De<g ref="char:EOLhyphen"/>viſes of the Heathen to nought; the Counſel of the Lord ſtandeth for ever, the thoughts of his heart to all gene<g ref="char:EOLhyphen"/>rations,</hi> Pſal. 33.10, 11. <hi>His Counſel ſhall ſtand, and he will do all his pleaſure,</hi> Iſa. 46.10. He over-ruleth all the Counſels that are in the World, <hi>and hath brought to nothing the devices of the Crafty,</hi> Job 5.12.</p>
+            <p>When <hi>Abſalom</hi> rebelled againſt <hi>David,</hi> and <hi>Achitopel</hi> was with him, who was eſteemed an Oracle of God for Counſel; <hi>David</hi> prayeth to God to turn his Coun<g ref="char:EOLhyphen"/>ſel back, to defeat it, which he did accordingly an<g ref="char:EOLhyphen"/>ſwer him in, by the Counterpoiſe of <hi>Huſhi,</hi> 2 <hi>Sam.</hi> 15.31. <hi>Chap.</hi> 17.14. So of the Enemies of the Jews, <hi>Neh.</hi> 4.15. Of the Wicked, <hi>Job</hi> 5.13. <hi>Chap.</hi> 10.3. The Heathen, <hi>Pſal.</hi> 33.10. Of <hi>Syria, Aephraim, Iſa.</hi> 7, 5, 7. <hi>Chap.</hi> 8.10. Of <hi>Egypt, Iſa.</hi> 19.3, 11.</p>
+            <p>Now God hath many ways to bring the Counſels of men to nought, as he did <hi>Hamans</hi> againſt <hi>Morde<g ref="char:EOLhyphen"/>cai,</hi> Eſther 6. Chap. 7.9, 10, <hi>ult.</hi> The King of <hi>Syria</hi> againſt the Prophet <hi>Eliſha,</hi> 2 Kings 6.12, 13, to 20. The Jews againſt <hi>Paul,</hi> Acts 23.12, 16. <hi>Jacobs</hi> Sons againſt <hi>Joſeph,</hi> Gen. 37.20. <hi>Pharaobs</hi> againſt <hi>Iſrael,</hi> when he ſaid, <hi>let us deal wiſely,</hi> Exod. 1.10. and that was to deſtroy them; but he was deſtroyed thereby: So <hi>Haman,</hi> the Gallows built for <hi>Mordecai,</hi> he firſt hanſelled, <hi>Eſter</hi> 7.9, 10, <hi>ult.</hi> The Pit they dig for others takes their own feet, and they fall therein: So God defeated the Philiſtines Plot againſt <hi>Sampſon: Saul</hi> defeated in his deſigns again <hi>David;</hi> ſometimes by ſtrife, as <hi>Jehoſaphats</hi> Enemies, 2 <hi>Chron.</hi> 20. Croſs Intereſts ariſe, Great Men, who are as wheels in the Work die, and all their Thoughts and Deſigns pe<g ref="char:EOLhyphen"/>riſh with them.</p>
+            <pb n="16" facs="tcp:99830:14"/>
+            <p>
+               <hi>Secondly.</hi> As their Heads, ſo their Hands and Power is ordered by the Lord. So that when he giveth Quiet, there's no Hand can cauſe Trouble; For the Sword is at the diſpoſal of the Lord, Job 5.12. <hi>He diſ<g ref="char:EOLhyphen"/>appointeth the devices of the Crafty, ſo that their hands cannot find their Enterpriſe.</hi> Iſa. 54.17, <hi>ult. No wea<g ref="char:EOLhyphen"/>pon that is formen againſt</hi> Sion <hi>ſhall proſper, and every tongue that riſeth up in Judgment againſt her, God will condemn.</hi> Pſal. 46.9, 10. <hi>He maketh Wars to ceaſe unto the ends of the Earth; he breaketh the Bow, and cutteth the Spear in ſunder, and burns the Chariots with Fire,</hi> and ſaith, <hi>Be ſtill, and know that I am God;</hi> For 'tis he that bendeth the Bow, the Sword is his Weapon, and goeth at his bidding. Job 19.29, <hi>ult. Be afraid of the Sword, for wrath bringeth the puniſhment of the Sword, that ye may know there is a Judgment.</hi> Judg. 5.8. <hi>They choſe new Gods, then was War in the Gates.</hi> Dout. 32.41. <hi>If I whet my Glittering Sword, and my hand take hold on Judgment.</hi> Iſai. 34.5, 6. <hi>The Sword of the Lord is bathed in Heaven, and it ſhall come down upon</hi> Idumea, <hi>and the People of his curſe to Judgement.</hi> Iſa. 66.16. <hi>By Fire and Sword will the Lord plead with all Fleſh, and the ſlain of the Lord ſhall be many.</hi> Jer. 12.12. <hi>The Spoilers are come upon all high places through the Wilderneſs, for the Sword of the Lord ſhall devour from one end of the Land, even to the other end of the Land; no Fleſh ſhall have peace.</hi> Jer. 47.6, 7, <hi>ult. O thou Sword of the Lord, How long will it be ere thou be quiet? Put up thy Self into thy Scabbard, rest and be ſtill. How can it be quiet, ſeeing the Lord hath givin it a charge againſt.</hi> Aſhkelon, <hi>and againſt the Sea ſhore? There hath he appointed it.</hi>
+            </p>
+            <p>So that the Sword is his Servant, he hiſſeth for the Flie, and the Bee of <hi>Aſſyria</hi> and <hi>Egypt;</hi> he is <hi>Jeho<g ref="char:EOLhyphen"/>vah</hi>
+               <pb n="17" facs="tcp:99830:14"/>of Hoſts, he ſtirreth up the Spirits, and ſtrength<g ref="char:EOLhyphen"/>neth the hands of thoſe that do his Work. Again, When he giveth quiet, then he ſaith, <hi>Nation ſhall not lift up Sword against Nation, nor learn war any more,</hi> Iſa. 2.4. And when he will diſcomfit power, he hath va<g ref="char:EOLhyphen"/>rious ways to bring it to paſs: He ſets the <hi>Philistins</hi> againſt one another before <hi>Jonathan,</hi> 1 Sam. 14.20. The <hi>Egyptians</hi> againſt the <hi>Egyptians,</hi> Iſa. 19.2. <hi>Jeho<g ref="char:EOLhyphen"/>ſaphats</hi> Enemies againſt each other, 2 <hi>Chron.</hi> 20.27. <hi>Judas</hi> ſlayeth himſelf, ſo doth <hi>Ahitophel, Abimeleck, Saul,</hi> &amp;c. rather than want an Executioner, when God is diſpleaſed.</p>
+            <p>
+               <hi>Thirdly.</hi> As he hath the Hands, ſo he hath the Hearts of all in his Hands, <hi>Prov.</hi> 21.1. <hi>The Kings Heart is in the Hand of the Lord; as the Rivers of Water he turneth it whitherſoever he will.</hi> Iſa. 10.5, 6, 7, 8, <hi>&amp;c.</hi> Thus was <hi>Eſaus</hi> heart turned to <hi>Jacob,</hi> Gen. 27 41. compared with <hi>Chap.</hi> 33. 4. <hi>Saul</hi> among the Prophets, when he came to deſtroy <hi>David,</hi> 1 Sam. 19.20, 21, 22, 23, 24. ſo Prov. 16.7. <hi>When a mans ways pleaſe God, he maketh his Enemies at Peace with him.</hi>
+            </p>
+            <p>
+               <hi>Fourthly.</hi> And as he hath all Perſons at his Diſpoſal; ſo likewiſe hath he all Things at his Ordering: Job 5.19, 20, 21, 22, 23. <hi>He ſhall deliver thee in ſix troubles, yea in ſeven there ſhall no evil touch thee;</hi> verſe 20. <hi>In Fa<g ref="char:EOLhyphen"/>mine he ſhall redeem thee from Death; and in War, from the Power of the Sward.</hi> verſe 21. <hi>Thou ſhalt be hid from the ſcourge of the Tongue; neither ſhall thou be afraid of Deſtruction when it cometh.</hi> Verſe 22. <hi>At Deſtruction and Famine thou ſhalt laugh; neither ſhalt thou be afraid of the Beaſts of the Earth.</hi> Verſe 23. <hi>For thou ſhalt be in League with the Stones of the Field, and the Beasts of the Field ſhall be at Peace with thee,</hi> &amp;c. See more <hi>Pſal.</hi> 91.</p>
+            <pb n="18" facs="tcp:99830:15"/>
+            <p>Thus have we demonſtrated the truth of the firſt Propoſition, <hi>When he cauſeth Peace, none can cauſe Trouble;</hi> becauſe all trouble is ordered by the all wiſe diſpoſal of a Holy God, and all the Inſtruments of it are under his Government, both as to <hi>Perſons</hi> or <hi>Things.</hi> The Malice of Satan, and men given up to him; the Craft and Cruelty, the Policy and Power of VVicked Men is over-ruled by the Lord; their Hearts are turned as he pleaſeth, and all things are at his Command, and under his Power: So that we may Conclude this firſt Poſition, and infer from the Premiſes, if <hi>When God cauſeth Quiet, none can cauſe Trouble:</hi> Then.</p>
+            <p>
+               <hi>Firſt,</hi> It's our great concern for our Selves and the Nation, to make Peace with God, in the firſt place, above all things. Iob. 22.21. <hi>Acquaint thy ſelf now with him, and be at Peace, ſo ſhall good come unto thee;</hi> and this can only be done by Faith in Jeſus Chriſt, <hi>he that believeth ſhall be ſaved: 'Tis Life Eternal to know thee, the only true God, and Jeſus Christ whom thou hast ſent,</hi> John 17.2, 3. <hi>For he will come in Flaming Fire, taking vengeance on all that know not God, and that obey not the Goſpel,</hi> 2 Theſ. 1.8. And as Faith in Chriſt for Juſtification gives peace with God, ſo the Grace of God in ſanctifying of us, enjoyeth the bleſ<g ref="char:EOLhyphen"/>ſing of Quiet and Peace from God: And this Quiet of God, we may be induced to ſeek above any thing elſe, by a view of its Value, and Excellent Properties; 'tis Free, Noble, Holy and Righteous; we need not be aſhamed of it, it hath no diſhonourable Terms, 'tis full and firm, we may ſafely lean upon it, though on nothing elſe. Jer. 17.7. <hi>Bleſſed is the man that truſt<g ref="char:EOLhyphen"/>eth in the Lord, and whoſe hope the Lord is.</hi> Verſe 8.
+<pb n="19" facs="tcp:99830:15"/>
+               <hi>For he ſhall be as a Tree planted by the River of Waters, whoſe Leaf ſhall be green, and he ſhall not beaſe from yielding Fruit,</hi> &amp;c. But be ſure try our Peace firſt, that it be indeed of God, for Jer. 17.9. <hi>The Heart is deceitful above all things, and deſperately wicked, who can know it?</hi> And we are too prone to flatter and de<g ref="char:EOLhyphen"/>ceive our ſelves, through too much ſelf-love: But God will not be mocked, therefore let us be faith<g ref="char:EOLhyphen"/>ful in ſearching our ways, as we love our Souls, and their ſafety; and then we ſhall find to our Comfort, that <hi>when he cauſeth Quietneſs, none can cauſe Trouble.</hi>
+            </p>
+            <p>The ſecond Queſtion in the Text is this, <hi>When he hideth his Face, who can behold him?</hi> From whence we take our ſecond General Obſervation, <hi>That when God hideth his Face, none can behold him:</hi> Wherein we have,</p>
+            <p>
+               <hi>First,</hi> The Subject, concerning God's hiding his Face.</p>
+            <p>
+               <hi>Secondly,</hi> The Predicate, that then <hi>none can behold him.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> The Subject, concerning God's hiding his Face, about which we have theſe three Enquiries:</p>
+            <p>
+               <hi>Firſt,</hi> Into thoſe ſpecial Sins and Provocations a<g ref="char:EOLhyphen"/>gainſt God, which do engage him to hide his Face from a People; that where-ever they are found, God doth, or will hide his Face from ſuch a People.</p>
+            <p>
+               <hi>Secondly,</hi> The manner of God's hiding his Face from a People. And,</p>
+            <p>
+               <hi>Thirdly,</hi> The Nature of it.</p>
+            <p>
+               <hi>First,</hi> Then there are theſe Provocations among many others, which when found among any People, do provoke the Holy God to hide his Face from a People; which being too viſible among us, muſt be reformed, or we ſhall be deſtroyed.</p>
+            <pb n="20" facs="tcp:99830:16"/>
+            <p>The one is this, When a People leave God and turn to Idolatry, let ſuch have Peace from <hi>God</hi> never ſo firm, this Sin will provoke God to remove it: So <hi>Joſhuah</hi> told Iſrael, <hi>Joſhua</hi> 24.19, 20. <q rend="margQuotes">He is a Holy God, he is a Jealous God; if ye forſake the Lord, and ſerve ſtrange gods, then he will turn and do you hurt, and conſume you, after that he hath done you good.</q> And the whole Book of <hi>Judges</hi> is but an Hiſtorical Relation of God's conſtant puniſhing of an Idolatrous People for their Idolatry; as you may ſee there at large, <hi>Judg.</hi> 2.12, 13, 14, 15, 16. <hi>&amp;c.</hi> 
+               <q rend="margQuotes">The Chil<g ref="char:EOLhyphen"/>dren of <hi>Iſrael</hi> forſook the Lord, and ſerved other Gods; <hi>Baalim</hi> and <hi>Aſhtaroth,</hi> &amp;c. and provoked the Lord to Anger; and he delivered them into the Hands of the Spoilers. that ſpoiled them; and ſold them into the hands of their Enemies round about: So that they could not any longer ſtand before their Enemies: Whitherſoever they went, the Hand of the Lord was againſt them for Evil.</q> Judges 5.8. <hi>They choſe New Gods, then was War in the Gates.</hi> And indeed, this God will never bear withal, for he hath ſaid, <hi>I am</hi> Jehovah, <hi>that is my Name; and my Glory will I not give to another, nor, my Praiſe to Graven I<g ref="char:EOLhyphen"/>mages,</hi> Iſa. 42.8. <hi>&amp;</hi> 48.11.</p>
+            <p>
+               <hi>Secondly,</hi> Open Profaneneſs is a Provocation that will remove God's Favour; <hi>There is no Peace, ſaith the Lord, to the Wicked,</hi> Iſai. 48. <hi>ult.</hi> and chap. 57. <hi>ult. God is of purer Eyes than to behold Iniquity;</hi> and hath e<g ref="char:EOLhyphen"/>vidently diſplayed his Holineſs, even in the only way of Redemption it ſelf; which is by nothing leſs then the precious Blood of Jeſus Chriſt, which he ſhed to purchaſe a peculiar People, zealous of good Works; <hi>And without Holineſs no Man ſhall ſee the Lord,</hi> Heb.
+<pb n="21" facs="tcp:99830:16"/>12.14. Therefore, while the Land hath ſo great Pro<g ref="char:EOLhyphen"/>phaneneſs as there is viſibly in it, we are in great Danger of thoſe Miſeries, that always attends ſuch Impieties.</p>
+            <p>
+               <hi>Thirdly,</hi> Apoſtacy, and Backſliding from God, doth provoke him to hide his Face; if we leave him, he will forſake us: 1 <hi>Chron.</hi> 28.9. <hi>If thou forſake him, he will caſt thee off for ever.</hi> 2 Chron. 15.2. <hi>If ye forſake him, he will forſake you. If any man draw back,</hi> ſaith God, <hi>my Soul ſhall have no Pleaſure in him,</hi> Heb. 10.38, 39. <hi>But we are not of them that draw back unto Perdition,</hi> ſaith the Apoſtle. <hi>The Backſlider in Heart ſhall be filled with his own Ways,</hi> Pro. 14.14. And ſaith God, <hi>Wo unto you when I depart from you,</hi> Hoſ. 9.12. <hi>Now the Juſt ſhall live by Faith,</hi> ſaith the Apoſtle, <hi>Heb.</hi> 10.38. which muſt be by a conſtant view of God; and therefore, the nature of Unbelief is ſet forth, by a departing from the living God. Heb. 3.12. <hi>Take heed Brethren, leſt there be in any of you, an evil Heart of <g ref="char:V">Ʋ</g>nbelief, in departing from the living God:</hi> And indeed, what Quiet and Peace can we expect, when we leave the God of Peace, the Pountain of all Good? <hi>For every good and perfect Gift, comes from him,</hi> James 1.17.</p>
+            <p>
+               <hi>Fourthly,</hi> Unfruitfulneſs under the means of Grace; God hath afforded the <hi>Goſpel, the Miniſtration of the Word, which is able to ſave our Souls,</hi> Acts 20.32. Jam. 1.21. <hi>and build us up, by which we must be judged.</hi> Now, where God is at this coſt, he expects Fruit, or will deſtroy the Unfruitful; ſo ſaith the Apoſtle, <hi>Heb.</hi> 6.7, 8, 9. <hi>For the Earth which being often watered, bringeth forth Herbs meet for him by whom it is dreſſed, receiveth Bleſſing from God: But that which beareth no<g ref="char:EOLhyphen"/>thing but Briars and Thorns, is rejected, and is nigh unto
+<pb n="22" facs="tcp:99830:17"/>curſing, whoſe end is to be burned.</hi> The like our Lord Jeſus ſaith of the Barren Tree, <hi>Theſe three years have I come ſeeking Fruit, and finding none; Cut it down, why cumbreth it the Ground?</hi> Luke 13.7. and by the Parable of the Unfruitful Vineyard: Iſa. 5.1, 2, 3, 4, 5, 6, 7, 8, 9, 10. God diſplayeth the Equity of his Judgments againſt them; He ſaith, <hi>I Planted and Hedged it, and what more could have been done, that I did not do unto it? And yet, when I looked for Grapes, behold it brought forth wild Grapes.</hi> Therefore ſaith he, <hi>I will take away the Hedge thereof, and it ſhall be eaten up; and I will lay it waſte, and it ſhall be trodden under foot.</hi> Now ſaith he, <hi>The Vineyard of the Lord of Hoſts, is the Houſe of</hi> Iſrael, <hi>and the Men of</hi> Judah: And for this he denounceth Deſtruction againſt them. So ſaith our Lord to the Fig-tree that had Leaves on<g ref="char:EOLhyphen"/>ly; <hi>Never man gather Fruit on thee more, and it im<g ref="char:EOLhyphen"/>mediately withered,</hi> Mat. 21.20. So that whereas we have had Liberty and Ordinances, for our Edification, and the promoting of Holineſs, which our Holy Pro<g ref="char:EOLhyphen"/>feſſion calls for; and yet there is no Fruitfulneſs in a growing Holineſs, any ways proportionable to the means of Grace afforded us: We cannot groundedly expect any continuance of Quiet, but ſudden Deſtru<g ref="char:EOLhyphen"/>ction, unleſs a ſpeedy Repentance prevent it, and that it be attended with a due and diligent Improvement of the preſent Opportunities we do yet enjoy, for our Reformation.</p>
+            <p>
+               <hi>Fifthly,</hi> An Unreformed People, an impenitent and ſtubborn People that will not hear. Iſai. 9.13. verſe 12. <hi>The</hi> Syrians <hi>before, and the</hi> Philiſtines <hi>behind, devour</hi> Iſrael <hi>with open Mouth; for all this his Anger is not turned away, but his Hand is ſtretched out ſtill.</hi> Verſe
+<pb n="23" facs="tcp:99830:17"/>13. <hi>For the People turneth not unto him that ſmiteth them, neither do they ſeek the Lord of Hoſts; There<g ref="char:EOLhyphen"/>fore the Lord will cut off from</hi> Iſrael, <hi>Head and Tail, Branch and Ruſh in one Day.</hi> Here obſerve former Judgments on a People, if they are not followed with Repentance, are then but Warnings of greater Judg<g ref="char:EOLhyphen"/>ments Approaching. Prov. 29 1. <hi>He that being often reproved, hardneth his Neck, ſhall ſuddenly be deſtroyed, and that without Remedy.</hi> 'Tis high time that God's Strokes ſhould ſmite us, when his Word is not heard by us; and when Perſons refuſe to hear, and receive Inſtructions, they are on the Brink of Deſtruction. <hi>Jer.</hi> 6.8. <q rend="margQuotes">Be thou Inſtructed, O <hi>Jeruſalem,</hi> leſt my Soul depart from thee, leſt I make thee deſolate, a Land not Inhabited.</q> 
+               <hi>Jer.</hi> 44.4. <q rend="margQuotes">I ſent, <hi>ſaith God,</hi> my Servants the Prophets, ſaying, Do not this thing which I hate; but they harkned not, where fore my Fury and mine Anger was poured forth on the Cities of <hi>Judah</hi> and on <hi>Jeruſalem,</hi> and they were deſolate, as at this day,</q> 
+               <hi>v.</hi> 5, 6, 7, &amp;c. <hi>Gen.</hi> 6.3. <hi>God ſaith,</hi> 
+               <q rend="margQuotes">My Spirit ſhall not always ſtrive with man.</q> And likewiſe before the Captivity of <hi>Judah,</hi> 
+               <q rend="margQuotes">God ſent his Prophets, (2 <hi>Chron.</hi> 36.15, 16, 17.) early to them, becauſe he had compaſſion on them; but they mocked the Meſſengers of God, and deſpiſed his Words, and Miſuſed his Prophets, until the Wrath of the Lord aroſe againſt his People, till there was no Remedy: therefore he brought upon them, the King of the <hi>Chaldeans</hi> who ſlew their young men with the Sword, in the houſe of their Sanctuary, <hi>&amp;c.</hi>
+               </q> So likewiſe <hi>Ezek</hi> 20.6, 7, <hi>&amp;c.</hi> This Sin is ſet forth by the ſcum that goeth not out of the Pot by boyling, and ſaith, <q rend="margQuotes">Wo to the Bloody City, to the Pot
+<pb n="24" facs="tcp:99830:18"/>whoſe Scum is therein, and whoſe Scum is not gone out of it.</q>
+            </p>
+            <p>
+               <hi>First,</hi> He bids them pour water into the Pot, but when that did not do, to ſet it on a greater fire, in the Empty Pot, that the Braſs might melt it; if leſs Judgments will not do, greater muſt enſue unto utter deſtruction on an Impenitent People: And this Sin likewiſe is too manifeſt among us: Few regard what they hear to do it, which is for a Lamentation, becauſe remedileſs Miſery attends it, 2 <hi>Chron.</hi> 36.16.</p>
+            <p>Thus far we have enquired into thoſe Sins which provoke <hi>God</hi> to hide his Face from a People; and theſe Provocations are all too plain among us; our firſt work is to beg of <hi>God</hi> to turn our hearts, and give us Repentance, leaſt Judgments break forth againſt us without Remedy, <hi>Prov.</hi> 29.1.</p>
+            <p>
+               <hi>Secondly,</hi> As to the manner of <hi>God</hi>'s withdrawing or hiding his Face from a People, it is generally gradual.</p>
+            <list>
+               <item>1. He is long a going; the long ſuffering of <hi>God</hi> waited long in the days of <hi>Noah:</hi> God ſaith, <hi>How ſhall I give thee up</hi> Ephraim, <hi>and make thee as</hi> Admah, <hi>and ſet thee as</hi> Zeboim?</item>
+               <item>2. And long gone when departed; the <hi>Ark</hi> was in the <hi>Phyliſtines</hi> Countrey Twenty Years, 1 <hi>Sam.</hi> 7.2.</item>
+               <item>3. 'Tis long in Returning oft; ſo the Spouſe found it.</item>
+            </list>
+            <p>Now this Gradual hiding of Gods Face is oft Im<g ref="char:EOLhyphen"/>perceptable to moſt: <hi>Gray Hairs,</hi> ſaith God, <hi>are here and there on</hi> Ephraim, (<hi>Hoſ.</hi> 7.9.) <hi>and yet he conſide<g ref="char:EOLhyphen"/>reth it not:</hi> So that God oft is inſenſibly gone from us hereby, ere we are aware. But the diſmal Effects of of his departure, evidence his being gone: As,
+<pb n="25" facs="tcp:99830:18"/>
+               <list>
+                  <item>
+                     <hi>1ſt.</hi> He leaveth his Care over them, his Fence about them, and is as a <hi>Waifairing man, as one that tarryeth but for a night,</hi> Iſa. 5. Jer. 14 8.</item>
+                  <item>2ly. Hath no regard to their Prayers, <hi>Jer.</hi> 14 12. <hi>Chap.</hi> 15.1.</item>
+                  <item>3ly. Refuſeth to give them Counſel, as <hi>Saul</hi> found when he went to the VVitch at <hi>Endor,</hi> 1 Sam. 28.6, 15. Pſal. 74.9.</item>
+                  <item>4ly. Gives them up to their own Counſels, <hi>Pſalm</hi> 81.12.</item>
+                  <item>5ly. Will eaſe himſelf of them, and caſt them out of his Sight, <hi>Iſa.</hi> 1.24. <hi>Jer.</hi> 15.1, 2, 3, 4.</item>
+                  <item>6ly. Removes their Enjoyments, <hi>Iſa.</hi> 3.1, 2, 3, 4, 5. <hi>Ezek.</hi> 19.11, 14. and the like. Thus far for the man<g ref="char:EOLhyphen"/>ner of God's hiding his Face from a People.</item>
+               </list>
+            </p>
+            <p>The Third thing, is the Nature of it: And this will be beſt declared under the Conſideration of the Predicate, of this ſecond Propoſition; which is, that <hi>None can behold him:</hi> And herein is Two Parts:
+<list>
+                  <item>
+                     <hi>Firſt,</hi> Something Implyed.</item>
+                  <item>
+                     <hi>Secondly,</hi> Something Expreſſed.</item>
+               </list>
+            </p>
+            <p>That which is Implyed in the ſecond Queſtion, <hi>Who can behold him?</hi> Is this, That all others may be be. held, when they hide their Faces: But as is Expreſ<g ref="char:EOLhyphen"/>ſed, <hi>He only cannot be beheld, when he hideth His.</hi> And in Order to the Demonſtration of both theſe Propoſi<g ref="char:EOLhyphen"/>tions, Implyed and Expreſſed, we muſt firſt Explain.</p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> How God hideth his Face?</item>
+               <item>
+                  <hi>Secondly,</hi> And wherein none can behold him.</item>
+            </list>
+            <p>And then prove, <hi>Firſt,</hi> That in thoſe reſpects, men may be beheld, but that God cannot be ſo beheld; and ſhall conclude with a brief Application of the whole.</p>
+            <pb n="26" facs="tcp:99830:19"/>
+            <p>
+               <hi>Firſt</hi> then, to enquire wherein, or in what Reſpects God may be ſaid to hide his Face? And in thoſe re<g ref="char:EOLhyphen"/>ſpects he cannot be beheld: And theſe are Three.</p>
+            <p>
+               <hi>Firſt,</hi> When God with holdeth the light of his Countenance, the Evidence of his Favour, then none can ſee his face, or enjoy his favour; and in that re<g ref="char:EOLhyphen"/>ſpect cannot behold him.</p>
+            <p>
+               <hi>Secondly,</hi> When God keepeth his Anger, he may be ſaid, <hi>To hide his Face;</hi> and then none can Attone him; and in that reſpect cannot behold him.</p>
+            <p>
+               <hi>Thirdly,</hi> When <hi>God</hi> Executeth Judgments in An<g ref="char:EOLhyphen"/>ger, he may then likewiſe be ſaid, <hi>To hide his Face;</hi> and then none can bear his Indignation; and ſo in this reſpect alſo, none can behold him.</p>
+            <p>Nextly, We are to prove, <hi>Firſt,</hi> that which is im<g ref="char:EOLhyphen"/>plyed in the Queſtion, which is, <hi>That when Men hide their Faces, they may be beheld in all the aforeſald reſpects:</hi> And this is needful to conſider, that we may not for fear of Man's Anger, fall under the Wrath of God, when there is no Proportion between them.</p>
+            <p>
+               <hi>Firſt</hi> then, in the firſt Reſpect, the favour of Man may be obtain'd when it is withdrawn, becauſe the natural Temper and Inclinations of all men, may be known and accommodated, ſo as effectually to Influ<g ref="char:EOLhyphen"/>ence their Love and Delight. The moſt moroſe and ſowr Tempers, have been, and may be ſweetned, though oft difficult to do it without Sin.</p>
+            <p>
+               <hi>Secondly,</hi> The moſt implacable may be Attoned, whom we may, or need Attone: The Devils we nei<g ref="char:EOLhyphen"/>ther may, nor need; <hi>Eſau</hi> was Attoned to <hi>Jacob,</hi> tho' he had born him deadly Hatred: <hi>David</hi> towards <hi>Na<g ref="char:EOLhyphen"/>bal</hi>'s Houſe, by <hi>Abigal; Naaman</hi> the <hi>Syrian,</hi> by his Servants; <hi>Saul</hi> towards <hi>David: A Gift often doth it,</hi>
+               <pb n="27" facs="tcp:99830:19"/>Prov. 17.8.18.16. Chap. 21.14.</p>
+            <p>
+               <hi>Thirdly,</hi> The Execution of the uttermoſt humane Anger is tollerable; the Martyrs bore it Triumphant<g ref="char:EOLhyphen"/>ly, becauſe the Heads, Hearts, and Hands of Men and Devils, are in the Hands of that God. <hi>Who will not ſuffer us to be Tempted above what we are able; Who ſteyeth his Rough Wind, in the day of his East-wind,</hi> Iſai. 27.8. 1 Cor. 10.13.</p>
+            <p>
+               <hi>Secondly,</hi> Becauſe we are both mortal, the one puts a Period to their Oppreſſing us, <hi>Iſai.</hi> 51.12. And the other to our Suffering; <hi>Job.</hi> 3.17.</p>
+            <p>Now the Inferences and Uſe from what is Imply<g ref="char:EOLhyphen"/>ed, are theſe Two:</p>
+            <p>The firſt Uſe is this, <hi>If men may be beheld in every Reſpect, and that without the need of ſinning to do is; then let us not ſin to obtain the Favour, or to avoid the Diſpleaſure of Men.</hi>
+            </p>
+            <p>And Secondly, <hi>Then be not too much Tranſported at their Favour, nor Dejected at their Diſpleaſure.</hi>
+            </p>
+            <p>But the matter is otherwiſe with us, when we come under <hi>God</hi>'s Diſpleaſure, as is Expreſſed; <hi>When he hideth his Face, none can behold him,</hi> in any of the three aforeſaid Reſpects.</p>
+            <p>As firſt, When <hi>God</hi> withdraweth the light of his Countenance, none can obtain it; becauſe it is the free Gift of <hi>God</hi> which he diſpoſeth of arbitrarily; and that which is ſo, cannot be obtained by humane Pow<g ref="char:EOLhyphen"/>er. Rom. 9.15, 16. <hi>For he ſaith to</hi> Moſes, <hi>I will have Mercy on whom I will have Mercy,</hi> &amp;c. <hi>So then it is not of him that willeth, nor of him that runneth; but of God that ſheweth Mercy.</hi> We are unworthy the leaſt Mer<g ref="char:EOLhyphen"/>cy, and hin Favour is the greateſt; therefore cannot be purchaſed by us who have no Property in any
+<pb n="28" facs="tcp:99830:20"/>thing, nor are able to render proportionably to the leaſt Bleſſing.</p>
+            <p>
+               <hi>Secondly,</hi> Becauſe all thoſe conditional Promiſes of the free favour of <hi>God,</hi> ſuch as theſe to the <hi>Pure who ſhall ſee God, the <g ref="char:V">Ʋ</g>pright ſhall behold his Face,</hi> &amp;c. They all he at an equal Diſtance from us, as the fa<g ref="char:EOLhyphen"/>vour of <hi>God</hi> its ſelf doth: How abominable and filthy is Man, and alſo perverſe and deceitful, <hi>Without Divine Help we can do nothing,</hi> John 15.5.</p>
+            <p>
+               <hi>Secondly,</hi> When God keeps his Anger in his Boſom, then none can attone him by Creature Power, no other than the Eternal Son of God can do this; no Gift can do it; Pſal. 49 6, 7, 8, 9. <hi>They that tract in their Wealth, and boaſt themſelves in the multitude of their Riches: none of them can by any means redeem his Brother, nor give to God a Ranſom for him (for the redemption of his Soul is precious, and it ceaſeth for ever)</hi> &amp;c. 1 Pet. 1.18. <hi>Ye were not redeemed with corruptible things, as Silver and Gold, but with the precious Blood of Chriſt, as of a Lamb without blemiſh.</hi> Job 9.33. <hi>Nei<g ref="char:EOLhyphen"/>ther is there any days-man betwixt us, that might lay his hand upon us both.</hi> 1 Sam. 2.25. <hi>If one man ſin againſt another, the Judge ſhall judge him; but if a man ſin againſt the Lord, who ſhall intreat for him?</hi> So that we may conclude, that <hi>There is but one Mediator between God and man, the Man Chriſt Jeſus,</hi> 1 Tim. 2.5. who alone is qualified for it, being both God and Man.</p>
+            <p>
+               <hi>Thirdly,</hi> God's hiding his Face, is ſometimes taken for the execution of his Anger; when he paſſeth Sen<g ref="char:EOLhyphen"/>tance on the Wicked, he ſaith, <hi>depart from me.</hi>
+            </p>
+            <p>Now not to behold him in this reſpect is, that none <hi>is able to ſtand before his Indignation,</hi> it is intollerable. Pſal. 76.7. <hi>Thou, even thou art to be feared; and who may
+<pb n="29" facs="tcp:99830:20"/>ſtand in thy ſight, when thou art once angry.</hi> Pſal. 90.11. <hi>Who knoweth the power of thine anger? even according to thy Fear ſo is thy Wrath.</hi> Nahum. 1.6. <hi>Who can ſtand before his Indignation?</hi> Prov. 18.14. <hi>A wounded Spi<g ref="char:EOLhyphen"/>rit, who can bear!</hi> Job 6.2, 3. <hi>Oh that my Grief were weighed, it would be heavier than the Sand of the Sea.</hi> Pſal. 88.15. <hi>While I ſuffer thy Terrors, I am diſtracted;</hi> It is intollerable, becauſe all ſtrength and ability to bear any burden or difficulty, cometh only from that God, who in judgment witholds it from us, when he cometh forth againſt us. Ezek. 22.14. <hi>Can thine Heart endure, or can thine Hands be ſtrong in the days that I ſhall deal with thee, ſaith the Lord;</hi> for God hath ſaid it, <hi>that strength belongs unto God,</hi> Pſal. 62.11. How then can we be able <hi>to ſtand before his Indigna<g ref="char:EOLhyphen"/>tion?</hi>
+            </p>
+            <p>Again, It is Intollerable, becauſe it is Eternal; For God who executeth Anger, ever liveth ſo to do; and alſo continueth us in our being for ever to abide under it. Deut. 32.39, 40, 41. <hi>I am he, ſaith God, and there is no God with me: I kill and I make alive, neither is there any that can deliver out of my hand; for I lift up my hand to Heaven; and ſay I live for ever:</hi> He ever liveth a Holy Sin-Avenging God, and our <hi>Worm never dieth, nor is the fire ever quenched,</hi> Mark 9.48. <hi>Then who can dwell with Everlasting Burnings,</hi> Iſa. 33.14. So that <hi>'tis a fearful thing to fall into the hands of the Living God; for our God is a Conſuming Fire, even the Lord, to whom vengeance doth belong,</hi> Heb. 10.30, 31. Chap. 12.29, <hi>ult.</hi> And this the very Heathen, by the con<g ref="char:EOLhyphen"/>viction of a Natural Conſcience, have dreadful Ap<g ref="char:EOLhyphen"/>prehonſions of; <hi>my Name ſaith God is dreadful among
+<pb n="30" facs="tcp:99830:21"/>the Heathen,</hi> Mal. 1.11, 14, <hi>ult.</hi> And the Apoſtle ſaith, Rom. 2.15. <hi>Their Conſciences Excuſing, and Ac<g ref="char:EOLhyphen"/>cuſing one another.</hi> For Conſcience is the Judgment that Reaſonable Creatures do make, and cannot but make of their Moral Actions, with reſpect to the fu<g ref="char:EOLhyphen"/>ture Judgment of God; for we cannot but know we did not make our ſelves, and could not be by Accident or Chance, but muſt have one Firſt Cauſe, who is God, and then muſt be accountable unto him alone for our Being, and all we Enjoy; <hi>Every one of us must give account of himſelf to God,</hi> Rom. 14.12. Chap. 2.6. 2 Cor. 5.10. according to that Rule by which we muſt be judged, the Word of God: <hi>The Word,</hi> ſaith Chriſt, <hi>that I have ſpoke, the ſame ſhall judge you in the last day,</hi> John 12.48. Which alone by its ſelf-evidencing-power and purity, <hi>Jer.</hi> 23.28, 29. Ma<g ref="char:EOLhyphen"/>nifeſteth it ſelf to be of God, a Rule of Obedience to us, <hi>Iſa.</hi> 8.20. And ſeeing God hath therein appointed Jeſus Chriſt, in whom alone his Favour for ever is to be revealed, <hi>Act.</hi> 4.12. and ſet him to be the <hi>Great Maſter of the Houſe,</hi> Luk. 13.23, 24, 25, 26, 27. Into whoſe hands he hath put the Eternal Doom of all mankind; for by him <hi>He will judge the World,</hi> Acts 17.31. We <hi>muſt to day hear his voice,</hi> Heb. 3.7, 15. For when the Door is ſhut, and the prefent day of Salvation and Grace; which now by the Goſpel is offered us from God, is once over, we are remedileſly miſerable for ever; Luke 13.23, 24, 25, 26, 27, 28, 29. <hi>There remaineth no more ſacrifice for ſin, but a certain fearful looking for of Judgment, and fiery Indignation, which ſhall devour the Adverſary,</hi> Heb. 10.26, 27. Wo unto us when God counts us for his Enemies; in
+<pb n="31" facs="tcp:99830:21"/>this reſpect alſo it may well be ſaid, <hi>When he hideth his Face, who can behold him;</hi> None can.</p>
+            <p>Thus we have fully Demonſtrated theſe two Pro<g ref="char:EOLhyphen"/>poſitions:</p>
+            <p>Firſt, <hi>When God cauſeth Quietneſs, then none can cauſe Trouble.</hi>
+            </p>
+            <p>Secondly, <hi>When God hideth his Face, then none can behold him.</hi>
+            </p>
+            <p>The Concluſion from the Premiſes for <hi>Application,</hi> is this.</p>
+            <p>Then let us not loſe the Favour, or Incur the Diſpleaſure of <hi>God,</hi> to obtain the Favour, or to avoid the Diſpleaſure of any, or all the Creatures in the World. Fix this Perſwaſion in your minds from the Premiſes, that <hi>God</hi>'s favour is the greateſt good; <hi>His Loving Kindneſs is better than Life,</hi> Pſal. 63.3. There<g ref="char:EOLhyphen"/>fore, firſt to be ſought, and moſt to be valued; <hi>Pſal.</hi> 4.6, 7. and that his Diſpleaſure is moſt dreadful, and worſe than Death, the greateſt Diſaſter that can be<g ref="char:EOLhyphen"/>fall us; <hi>Mat.</hi> 10.28. and therefore, firſt to be avoi<g ref="char:EOLhyphen"/>ded and moſt to be ſhunned.</p>
+            <p>And I ſhall conclude this Exerciſe, with this Ex<g ref="char:EOLhyphen"/>hortation:</p>
+            <p>
+               <hi>First,</hi> That we ſeek <hi>God</hi> and his Favour, by Faith in Jeſus Chriſt, in a conſtant Holy Conformity of of Heart and Life unto his Holy Will, all the days of our Lives. And,</p>
+            <p>
+               <hi>Secondly,</hi> That <hi>we fly from the Wrath to come,</hi> that we <hi>hide our ſelves,</hi> Iſa. 26.20. From the Impending Judgments, e'er it be too late, by Unfeigned Repen<g ref="char:EOLhyphen"/>tance, Reformation and a ſpeedy ſeeking of God for Pardon and Forgiveneſs, that his diſpleaſure being
+<pb n="32" facs="tcp:99830:22"/>removed, then the effects of his Anger, <hi>viz.</hi> the ap<g ref="char:EOLhyphen"/>proaching troubles may be removed alſo thereby; Be<g ref="char:EOLhyphen"/>cauſe,</p>
+            <q>When he giveth Quietneſs, who then can cauſe Trou<g ref="char:EOLhyphen"/>ble? And when be hideth his Face, who then can be<g ref="char:EOLhyphen"/>hold him, whether it be done against a Nation or a man only?</q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:99830:22"/>
+         </div>
+      </body>
+   </text>
+</TEI>
